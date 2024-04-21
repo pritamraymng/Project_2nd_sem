@@ -1,1 +1,1 @@
-# Project_2nd_sem
+# This code is written by M. Sajid, P. Kumar, P. Ray, S. Das, S. MAjhi, V. Kumar, student at IIT Madras.
