@@ -1,1 +1,1 @@
-# This code is written by M. Sajid, P. Kumar, P. Ray, S. Das, S. Majhi, V. Kumar, students at IIT Madras.
+# This code is written by M. Sajid, P. Kumar, P. Ray, S. Das, S. Majhi, V. Kumar, students at IIT Madras. The source of the dataset is author of the paper "Machine learning‑based mathematical modelling for prediction of social media consumer behavior using big data analytics,Kiran Chaudhary, Mansaf Alam , Mabrook S. Al‑Rakhami and Abdu Gumaei, Springer Open,2021".
